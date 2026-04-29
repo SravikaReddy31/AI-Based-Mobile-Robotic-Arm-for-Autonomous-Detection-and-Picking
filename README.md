@@ -107,19 +107,19 @@ pip install numpy
 ### Run Wheel Control
 
 ```bash
-python3 wheels.py
+python3 wheel.py
 ```
 
 ### Run Arm Control
 
 ```bash
-python3 arm_control.py
+python3 arm.py
 ```
 
 ### Run Full Robot Control
 
 ```bash
-python3 robot_control.py
+python3 full_control.py
 ```
 
 ---
